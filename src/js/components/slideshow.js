@@ -1,4 +1,4 @@
-import database from '../js/modules/database.js'
+import database from '../modules/database.js'
 
 const frontPageArray = document.getElementsByTagName('img')
 

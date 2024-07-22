@@ -1,4 +1,4 @@
-import database from '../js/modules/database.js'
+import database from '../modules/database.js'
 import { startSlideButton } from './slideshow.js'
 
 const frontPageArray = document.getElementsByTagName('img')
