@@ -1,0 +1,45 @@
+const images = document.querySelectorAll('img')
+const imageLinks = Array.from(images).map(img => img.src)
+console.log(imageLinks)
+
+-- Natural:
+1. https://www.pornpics.com/galleries/zishy-keely-rose-15263771/
+2. https://www.pornpics.com/galleries/zishy-chaney-gunn-13120012/
+3. https://www.pornpics.com/galleries/brunette-honey-with-big-tits-brook-a-strips-to-sheer-nylons-on-a-couch-14002485/
+4. https://www.pornpics.com/galleries/blonde-girlfriend-melissa-d-slowly-unveils-her-big-boobs-and-poses-topless-41844017/
+5. https://www.pornpics.com/galleries/petite-blonde-girlfriend-lydia-graniva-flashing-her-juicy-tits-sexy-body-74238490/
+
+-- Latina:
+1. https://www.pornpics.com/galleries/zishy-soledad-lomas-68458007/
+2. https://www.pornpics.com/galleries/captivating-alexa-flashes-her-big-naturals-and-poses-in-hot-lingerie-in-a-solo-59408754/
+3. https://www.pornpics.com/galleries/zishy-camila-gomez-93255262/
+4. https://www.pornpics.com/galleries/amateur-babe-ella-knox-flaunts-her-big-boobs-and-yummy-ass-on-a-bed-15086770/
+5. (replace) https://www.pornpics.com/galleries/nice-girl-sofi-vega-doffs-her-lingerie-while-wearing-a-garter-belt-and-nylons-80689077/
+
+-- Black:
+1. https://www.pornpics.com/galleries/zishy-kelsey-jones-99848384/
+2. https://www.pornpics.com/galleries/curly-haired-ebony-kayla-reveals-her-tits-while-posing-in-sexy-leggings-26090704/
+3. https://www.pornpics.com/galleries/ebony-babe-zena-goes-topless-shows-her-tits-while-posing-in-her-stockings-75803077/
+4. https://www.pornpics.com/galleries/ebony-beauty-samantha-c-uncovers-her-firm-tits-while-wearing-nylons-63915033/
+5. https://www.pornpics.com/galleries/only-tease-danielle-22349986/
+
+-- Mature:
+1. https://www.pornpics.com/galleries/british-beauty-honour-may-fondles-her-small-tits-in-a-garter-belt-nylons-38661712/
+2. https://www.pornpics.com/galleries/only-tease-lindsey-strutt-30178046/
+3. https://www.pornpics.com/galleries/british-chick-with-dark-hair-roxy-mendez-unveils-her-nice-tits-in-white-nylons-76139658/
+4. https://www.pornpics.com/galleries/petite-milf-charley-s-shows-her-huge-bosoms-and-poses-in-the-locker-room-50755333/
+5. https://www.pornpics.com/galleries/brunette-milf-mili-jay-strips-to-a-garter-belt-and-nylons-during-solo-action-90852072/
+
+-- Thick:
+1. https://www.pornpics.com/galleries/beautiful-black-haired-babe-molly-may-strips-to-seductive-lingerie-in-a-solo-51291696/
+2. https://www.pornpics.com/galleries/curvy-babe-charley-s-strips-her-brazil-jersey-and-teases-with-huge-melons-62653669/
+3. https://www.pornpics.com/galleries/solo-model-with-curly-hair-amiya-dreams-touts-her-booty-while-going-topless-31306851/
+4. https://www.pornpics.com/galleries/foxy-alexa-b-strips-off-sexy-sports-uniform-and-exposes-her-juicy-breasts-61238486/
+5. https://www.pornpics.com/galleries/brunette-brazil-fan-jessika-jinx-displays-her-big-ass-tits-and-poses-topless-48710911/
+
+-- Cute:
+1. https://www.pornpics.com/galleries/beautiful-girl-alexa-places-her-hands-over-her-naked-tits-in-black-nylons-12011558/
+2. https://www.pornpics.com/galleries/zishy-rebel-tee-42953000/
+3. https://www.pornpics.com/galleries/sweet-girl-chloe-toy-removes-sensual-lingerie-to-go-nude-in-nylons-14677756/
+4. https://www.pornpics.com/galleries/zishy-kari-pitinova-17730409/
+5. https://www.pornpics.com/galleries/zishy-yeraz-gebeshian-23910435/

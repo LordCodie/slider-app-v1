@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="./css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--navbar-->
+    <nav class="navbar bg-body-tertiary shadow-sm">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">
+                <span>Slider</span><span class="logo-first-word--">App</span>
+            </span>
+        </div>
+    </nav>
+
+    <!--Menus-->
+    <div id="menu-container">
+        <nav class="navbar shadow-sm">
+            <div class="container-fluid d-flex justify-content-center">
+                <div class="col-12">
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn" value="natural"
+                        id="natural">Natural</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn" value="latina"
+                        id="latina">Latina</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn" value="black"
+                        id="black">Black</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn" value="mature"
+                        id="mature">Mature</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn" value="thick"
+                        id="thick">Thick</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn mt-2" value="cute"
+                        id="cute">Cute</button>
+                    <button type="button" class="btn btn-outline-light btn-sm category-btn mt-2" value="show-all"
+                        id="show-all">Show All</button>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- <div class="full-screen-overlay active">
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://cdni.pornpics.com/1280/7/725/20476808/20476808_044_a025.jpg" class="border rounded d-block w-100"
+                        alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://cdni.pornpics.com/1280/7/725/20476808/20476808_033_0ec9.jpg" class="d-block w-100"
+                        alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://cdni.pornpics.com/1280/7/725/20476808/20476808_054_90fb.jpg" class="d-block w-100"
+                        alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div> -->
+
+    <!-- <div id="fullScreenOverlay" class="full-screen-overlay" onclick="closeFullScreen()">
+        <img id="fullScreenImage" class="full-screen-image">
+    </div>  -->
+
+    <!-- <div class="col d-flex justify-content-center">
+        <button type="button" class="btn">
+            <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x-lg"
+                    viewBox="0 0 16 16">
+                    <path
+                        d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z" />
+                </svg>
+            </span>
+        </button>
+    </div> -->
+
+    <!--containers-->
+    <div class="container-sm col">
+        <div id="image-home-page-container"></div>
+        <div id="image-main-page-container"></div>
+        <div id="image-slideshow-page-container"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+
+    <!--Main js File-->
+    <script src="./js/app.js" type="module"></script>
+
+    <!--Module js Files-->
+    <script src="./js/modules/database.js" type="module"></script>
+
+    <!--Component Files-->
+    <script src="./components/homepage.js" type="module"></script>
+    <script src="./components/category.js" type="module"></script>
+    <script src="./components/mainpage.js" type="module"></script>
+    <script src="./components/slideshow.js" type="module"></script>
+
+</body>
+
+</html>
